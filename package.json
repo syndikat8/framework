@@ -1,0 +1,23 @@
+{
+  "name": "framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syndikat8/framework.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Matusik Dima <k.syndikat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syndikat8/framework/issues"
+  },
+  "homepage": "https://github.com/syndikat8/framework#readme"
+}
